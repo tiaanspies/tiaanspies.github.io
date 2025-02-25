@@ -12,6 +12,15 @@
     By applying structured problem-solving methodologies and cross-disciplinary expertise, I contribute to enhancing system stability, 
     optimizing performance, and ensuring seamless production readiness.
 
+- title: Research internship, Robot Swarm Path Planning, BU, USA
+  from: Summer 2023
+  description: During my research internship at Boston University, I developed and implemented a path planning algorithm 
+    for a mobile robot swarm, enabling coordinated navigation while avoiding collisions with obstacles and other robots. 
+    Using ROS as the communication framework, I designed a decentralized system for multi-robot coordination and control.<br><br>
+
+    This project strengthened my expertise in swarm robotics, path planning, and ROS programming, while also providing 
+    hands-on experience with embedded systems and C programming. The robots were powered by ESP32 microcontrollers running Micro-ROS, further expanding my skills in real-time control and distributed systems.
+    <br><br>For more details, check out the Projects section of my portfolio.
 - title: Master of Science in Robotics, Boston University, USA
   from: 2022
   to: 2023
