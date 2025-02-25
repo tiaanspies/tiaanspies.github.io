@@ -1,17 +1,43 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Systems Integration and Test Engineer, ASML, USA
+  from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Systems Integration and Test Engineer at ASML,
+    I work on the cutting-edge High-NA lithography system—one of the most complex machines ever developed. 
+    Recently introduced to the market, this technology is driving the next generation of semiconductor advancements.<br><br>
+
+    In my role, I analyze and resolve production and system integration challenges, ensuring the industrialization and 
+    scalability of these advanced machines. Using tools like Python and MATLAB, I collect and interpret data to diagnose issues,
+    while occationally providing hands on electrical support for issues escalated by the production team.<br><br>
+
+    By applying structured problem-solving methodologies and cross-disciplinary expertise, I contribute to enhancing system stability, 
+    optimizing performance, and ensuring seamless production readiness.
+
+- title: Master of Science in Robotics, Boston University, USA
+  from: 2022
+  to: 2023
+  description: At Boston University, I specialized in Robotics & Autonomous Systems, where I gained both theoretical expertise and 
+    practical experience in cutting-edge technologies. My studies encompassed key areas such as machine learning, autonomous robot navigation, 
+    and feedback and control systems. The program’s interdisciplinary approach and hands-on projects prepared me to tackle complex 
+    challenges in robotics and automation, combining a strong academic foundation with real-world applications.
+
+- title: Controls Engineer, Schullpak, South Africa
+  from: 2021
+  to: 2022
+  description: As a Controls Engineer at Schullpak, I was responsible for designing and implementing control systems for high-speed 
+    packaging machinery, ensuring efficient and reliable operation. I developed and maintained PLC programs and HMI interfaces, 
+    optimizing automation for major clients such as Coca-Cola and Heineken.<br><br>
+
+    One of my key projects was serving as the lead programmer for a $400,000 robotic palletizer upgrade, where I designed, 
+    programmed, and successfully completed Factory Acceptance Testing (FAT) for a new PLC system. This end-to-end project 
+    reinforced my ability to take complex automation solutions from design to implementation, strengthening my expertise in 
+    industrial robotics and control systems.
+
+- title: Bachelor of Engineering in Mechatronics (Cum Laude), Stellenbosch University, South Africa
+  from: 2018
+  to: 2021
+  description: My undergraduate studies in Mechatronics Engineering provided a strong foundation in electrical and mechanical engineering, 
+    forming the basis for my career in robotics and automation. This interdisciplinary education equipped me with essential skills in 
+    control systems, embedded programming, and automation technologies.<br><br>
+
+    I graduated Cum Laude with a 3.83 GPA and was recognized for academic excellence by being invited to join the Golden Key 
+    International Honour Society, awarded to the top 15% of students in my class.
